@@ -1,13 +1,13 @@
-#from ultralytics import YOLO
-#from pymavlink import mavutil
-#import numpy as np
-#import cv2
-#import time
-#import sys
-#import os
-#import subprocess
-#import threading
-#import queue
+from ultralytics import YOLO
+from pymavlink import mavutil
+import numpy as np
+import cv2
+import time
+import sys
+import os
+import subprocess
+import threading
+import queue
 
 # =========================================================
 # KONFIGURASI UTAMA
